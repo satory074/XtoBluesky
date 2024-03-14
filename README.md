@@ -8,5 +8,5 @@ graph LR
 ```
 
 # References
-- IFTTT: https://ifttt.com/applets/pBZAL7R4-if-new-tweet-by-satory074-then-add-row-to-satory074-gmail-com-s-google-drive-spreadsheet
-- https://note.com/keiga/n/n527865bcf0d5
+- [IFTTT](https://ifttt.com/applets/pBZAL7R4-if-new-tweet-by-satory074-then-add-row-to-satory074-gmail-com-s-google-drive-spreadsheet)
+- [GASでBlueskyのBotをつくった備忘録](https://note.com/keiga/n/n527865bcf0d5)
